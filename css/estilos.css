@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+ .botones{
+   margin-top: 10px;
+   font-style: oblique;
+ }
+
+ .banner{
+   height:50px;
+ }
+
+a{
+  color: white;
+}
+
+.separacion{
+   padding-top: 100px;
+}
+
+.box{
+  margin-left: 175px;
+  margin-top: 35px;
+  width: 1230px;
+  background-color: #f1f0f1;
+}
+
+.hola{
+  display: inline-block;
+  width: 475px;
+  margin-left:50px;
+  margin-right: 40px;
+}
+
+.footer{
+  margin-top: 20px;
+  padding: 50px 0 40px;
+}
+
+.iconos{
+  margin-right:10px
+}
+
+.shadowbox{
+  padding: 0px;
+  box-shadow: 5px 14px 30px -1px rgba(0,0,0,0.55);
+}
+
+.imgcien{
+  width: 100%;
+}
