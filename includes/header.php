@@ -26,7 +26,7 @@
             <a class="nav-link" href="#">Productos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">Contacto</a>
+            <a class="nav-link" href="links/contacto.php">Contacto</a>
           </li>
         </ul>
 
