@@ -17,16 +17,16 @@
 
         <ul class="nav  botones">
           <li class="nav-item">
-            <a class="nav-link active font-weight-bold" href="#">Home</a>
+            <a class="nav-link active font-weight-bold" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link " href="#">Quienes somos?</a>
+            <a class="nav-link " href="quienes-somos.php">Quienes somos?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Productos</a>
+            <a class="nav-link" href="productos.php">Productos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="links/contacto.php">Contacto</a>
+            <a class="nav-link" href="contacto.php">Contacto</a>
           </li>
         </ul>
 

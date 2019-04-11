@@ -5,7 +5,7 @@
       <a href="#" class="fas fa-angle-up fa-3x" style="text-decoration:none;"></a>
     </div>
   </div> -->
-  <div class="titulo">
+  <div class="titulo whitetext">
 
     <h2><b>CONTACTENOS</b></h2>
 
@@ -15,7 +15,7 @@
 
   <div class="row justify-content-center">
 
-      <div class="col-sm-3 shadowbox sss" style="padding:20px;">
+      <div class="col-sm-3 shadowbox sss fondito" style="padding:20px;">
 
           <div class="item">
           <i class="fas fa-envelope-square"></i>
@@ -88,7 +88,7 @@
 
       </div>
 
-      <div class="col-sm-3 shadowbox sss" style="padding:20px;">
+      <div class="col-sm-3 shadowbox sss fondito" style="padding:20px;">
           <i class="fas fa-map-marked-alt fa-1x"></i>
           <b>Mapa :</b>
           <br><br>

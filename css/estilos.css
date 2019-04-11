@@ -24,6 +24,13 @@ a{
   background-color: #f1f0f1;
 }
 
+.boxblack{
+  margin-left: 175px;
+  margin-top: 35px;
+  width: 1230px;
+  background-color: #d8d8d8;
+}
+
 .hola{
   display: inline-block;
   width: 475px;
@@ -59,4 +66,12 @@ a{
 }
 .titulo{
   text-align: center;
+}
+
+.whitetext{
+  color: white;
+}
+
+.fondito{
+  background-color: white;
 }
